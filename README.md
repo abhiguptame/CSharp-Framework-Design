@@ -147,36 +147,7 @@ https://www.doxygen.nl/index.html
 ### => 3. What they will need to know before starting
 ### => 4. How to install it
 ### => 5. Additional resources, documentation, or tutorials.
-Recommended Readme Reference: https://github.com/PixelVision8/PixelVision8
-Recommended Online Tool: https://www.gitbook.com/
-Use Google APPs Scripts to convert from document to Markdown if required.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### => Recommended Readme Reference: https://github.com/PixelVision8/PixelVision8
+### => Recommended Online Tool: https://www.gitbook.com/
+### => Use Google APPs Scripts to convert from document to Markdown if required.
 
