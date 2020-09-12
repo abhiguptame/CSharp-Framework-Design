@@ -39,7 +39,7 @@
 ## Ways of Sharing Framework:
 ### => Creating Dynamic Link Library (.dll from Shared Project)
 ### => NuGet
-### => Hosting Online (GitHub, Own Website, etc
+### => Hosting Online (GitHub, BitBucket, GitLab, Own Website, etc.)
 
 
 
