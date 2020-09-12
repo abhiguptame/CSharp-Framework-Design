@@ -104,6 +104,23 @@ What are the primitive classes of our framework ? Are these enough? Can they be 
 ### => 6) Sharing the Code:
 Are we sharing the code for our framework and do we intend others to extend it beyond its original design, or would we rather keep it private?
 
+## Extending Framwork:
+### => 1) What are we solving?
+What are the use cases the framework solves that others will use it for?
+
+### => 2) Gaps?
+What gaps are there in framework?
+
+### => 3) Fixes?
+How do we intend for the others to fix these gaps?
+
+### => While designing a framework, it helps to use it ourself.
+
+
+
+
+
+
 
 
 
