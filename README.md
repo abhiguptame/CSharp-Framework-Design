@@ -52,6 +52,14 @@
 ### => Encapsulation is used to hide the values or state of a structured data object inside a class, preventing unauthorized parties' direct access to them.
 ### => Encapsulation is a key concept in object-oriented programming, and it helps to not only protect the data inside of our framework but also simplify the external interaction with the undelying code.
 
+## Ways to Encapsulate Data:
+### => 1. Define strict scope for our framework APIs.
+### => 2. Any externally facing code should be made public.
+### => 3. Internal code should be made protected.
+### => 4. Code that is designed to be extended or changed should be marked as virtual.
+### => 5. And anything that is final should be marked as read-only, static, or sealed.
+
+
 
 
 
