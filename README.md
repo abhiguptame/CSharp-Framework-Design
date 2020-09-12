@@ -116,7 +116,28 @@ How do we intend for the others to fix these gaps?
 
 ### => While designing a framework, it helps to use it ourself.
 
-### => Recommended Reference: https://github.com/PixelVision8
+### => Recommended Reference: https://github.com/PixelVision8/PixelVision8
+
+## Document Framework:
+
+### => C# Framework use XML-Style Commenting
+### => To Add a Comment (Visual Studio):
+Simply type /// to get the XML comment template.
+### => For Methods:
+Add the comment template above a method.
+### => Once the public APIs are documented, we can move onto some of the inner code, if this is an open-source project or one being used by others on a team.
+
+### => Tasks:
+Another important tool when documenting code is to use // TODO
+### => Simply document the code while we write it.
+
+
+
+
+
+
+
+
 
 
 
