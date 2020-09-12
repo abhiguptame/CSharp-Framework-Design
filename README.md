@@ -72,6 +72,9 @@
 ### => Acoid directly manipulating data passed into methods. We don't want our framework to corrupt that data. Make a ccopy and manipulate that instead of the actual source.
 ### => If we can't make a copy of the data, use the ref argument to clearly state that properties passed into a method will directly manipulate the objects themselves.
 
+## Interfaces:
+### => Interfaces provide an opportunity to build a very modular framework and offer developers additional ways to extend and enhance what may be very closed system.
+
 
 
 
