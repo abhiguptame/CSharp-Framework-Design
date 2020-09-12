@@ -41,8 +41,7 @@
 ### => NuGet
 ### => Hosting Online (GitHub, BitBucket, GitLab, Own Website, etc.)
 
-
-
+### => To Know More about Licenses: https://opensource.org/licenses/
 
 
 
