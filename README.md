@@ -75,6 +75,39 @@
 ## Interfaces:
 ### => Interfaces provide an opportunity to build a very modular framework and offer developers additional ways to extend and enhance what may be very closed system.
 
+## Self asked Questions During Framework Developemnt:
+### => 1. Does It Do What Others Need?
+What happens when someone needs to do X, Y, or Z?
+
+### => 2. Can It Scale?
+Can our framework scale to the needs of the user or are we building a tool that is not flexible?
+
+### => 3. Can It Be Extended?
+Can users extend what we have done and build on the top of it easily.
+
+## Tips for Building Modular Classes:
+### => 1) Interfaces 
+Does the class implement an interface?
+
+### => 2) Support Extending:
+Is the class sealed or do we expect developers to extend it?
+
+### => 3) Abstract Classes:
+Are we creating abstract classes and base classes as a layer of foundation, or is the class a concreate implementation with no inheritance?
+
+### => 4) Utilities:
+What kind of utilities classes do we provide? Are they singletons or can they be extended?
+
+### => 5) Primitive Classes:
+What are the primitive classes of our framework ? Are these enough? Can they be used outside of the framework, or are they closely ties to the intended use case?
+
+### => 6) Sharing the Code:
+Are we sharing the code for our framework and do we intend others to extend it beyond its original design, or would we rather keep it private?
+
+
+
+
+
 
 
 
