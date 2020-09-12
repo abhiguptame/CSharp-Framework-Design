@@ -131,6 +131,32 @@ Add the comment template above a method.
 Another important tool when documenting code is to use // TODO
 ### => Simply document the code while we write it.
 
+## Documentation Tools:
+### => 1. Sandcastle Help File Builder
+https://github.com/EWSoftware/SHFB
+
+### => 2. VSdocman
+https://www.helixoft.com/vsdocman/overview.html
+
+### => 3. Doxygen
+https://www.doxygen.nl/index.html
+
+## Create a Readme File:
+### => 1. What the project is used for
+### => 2. Who created the project
+### => 3. What they will need to know before starting
+### => 4. How to install it
+### => 5. Additional resources, documentation, or tutorials.
+Recommended Readme Reference: https://github.com/PixelVision8/PixelVision8
+Recommended Online Tool: https://www.gitbook.com/
+Use Google APPs Scripts to convert from document to Markdown if required.
+
+
+
+
+
+
+
 
 
 
