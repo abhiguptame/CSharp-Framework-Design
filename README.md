@@ -41,7 +41,14 @@
 ### => NuGet
 ### => Hosting Online (GitHub, BitBucket, GitLab, Own Website, etc.)
 
+## Things to Look For During Publishing the FrameWork Code Online:
+### => Track bugs.
+### => See progress.
+### => Allow contributions.
+
 ### => To Know More about Licenses: https://opensource.org/licenses/
+
+
 
 
 
