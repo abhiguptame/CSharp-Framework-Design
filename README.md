@@ -59,6 +59,20 @@
 ### => 4. Code that is designed to be extended or changed should be marked as virtual.
 ### => 5. And anything that is final should be marked as read-only, static, or sealed.
 
+## Scope:
+### => This scope starts at the class level. Any class can be made public, private or internal.
+
+## Public APIs:
+### => Take a look at the classes own APIs and see which should be exposed to the user, by making them public, and hide the rest through protected scope.
+
+## Avoid Private Scope:
+### => Avoid private scope when possible. While code can be hidden from the public methods, try to create protected methods that can still be extended and changed by using the protected virtual scope.
+
+## Protecting Data:
+### => Acoid directly manipulating data passed into methods. We don't want our framework to corrupt that data. Make a ccopy and manipulate that instead of the actual source.
+### => If we can't make a copy of the data, use the ref argument to clearly state that properties passed into a method will directly manipulate the objects themselves.
+
+
 
 
 
