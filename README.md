@@ -30,3 +30,20 @@
 ### => 1. Clean API architecture
 ### => 2. Documentation
 ### => 3. Clear functionality
+
+## Things to Keep in Mind During Development:
+### => 1) Don't Boil the Ocean: Most software is made of several frameworks. It's OK to design several self-contained frameworks that work together as one larger whole, which is how .NET works.
+### => 2) Limit Dependencies: When encapsulating frameworks by functionality, it helps to limit dependencies.
+### => 3) Clearly State Dependencies: It's OK for framework to depend on other frameworks. Just be clear about what is needed to run the library for a developer looking to use it in their own code.
+
+## Ways of Sharing Framework:
+### => Creating Dynamic Link Library (.dll from Shared Project)
+### => NuGet
+### => Hosting Online (GitHub, Own Website, etc
+
+
+
+
+
+
+
