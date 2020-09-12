@@ -48,7 +48,9 @@
 
 ### => To Know More about Licenses: https://opensource.org/licenses/
 
-
+## Encapsulations:
+### => Encapsulation is used to hide the values or state of a structured data object inside a class, preventing unauthorized parties' direct access to them.
+### => Encapsulation is a key concept in object-oriented programming, and it helps to not only protect the data inside of our framework but also simplify the external interaction with the undelying code.
 
 
 
